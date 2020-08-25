@@ -1,0 +1,5 @@
+{
+    "mongoURL":"mongodb://artfacto_art:b747400400@artfactoryedu.com/artfacto_art",
+    "secretKey":"farid-bavi",
+    "secretKeyStudent":"sohrab-zolghdar"
+}
